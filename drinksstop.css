@@ -1,0 +1,243 @@
+body {
+	
+	background-color:#262626;
+	color:black;
+	height:100%;
+	font-size:20px;
+	margin:0;
+	background-image: url("images/wood.jpg");
+	background-size:contain;
+	
+	
+	}
+	
+	
+	#wrapper {
+	
+	width:1050px;
+	margin:0 auto;
+	
+	background-color:white;
+	
+	
+	}
+	
+	#logo{
+	width:500px;
+	height:300px;
+	max-width:100%
+	
+	}
+	
+	#topbar h3 {
+	
+	float:right;
+	margin:120px 30px 0 0;
+	font-family:Arial, Helvetica, sans-serif
+	
+	}
+	
+	#facebook{
+	
+	position:relative;
+	top:0px;
+	right:-400px;
+	margin-bottom:10px;
+	max-width:100%;
+	
+	}
+	
+	
+	
+	
+	
+	#navbar ul {
+	margin:50px 0 0 0;
+	
+	
+	
+	}
+
+	
+	#navbar li {
+	list-style:none;
+	background-color:#EBC72A;
+	height:40px;
+	font-size:1.7em;
+	border-radius:3px;
+	padding:6px 10px; 0 10px;
+	display:inline;
+	text-align:center;
+	
+	
+	
+	
+	
+	
+	}
+
+	#navbar a {
+	
+	text-decoration:none;
+	
+	
+	}
+	
+	#navbar li a:hover {
+	
+	text-decoration:underline;
+	
+	}
+	
+	.active {
+	
+	color:blue;
+
+	
+	}
+	
+	
+	#clear {
+	
+	clear:both;
+	
+	
+	
+	}
+	
+	
+	
+	#contentimage img {
+	
+	margin:70px 50px 50px 70px;
+	
+	width:950px;
+	
+	height:500px;
+	max-width:100%;
+	
+	
+	}
+	
+	
+	
+	#description h2 {
+	
+	text-align:center;
+	border-bottom:1px solid black;
+	padding:0px 0px 20px 0px;
+	}
+	
+	
+	#description a  {
+	
+	text-decoration:none; 
+	
+	}
+	
+	#description a:hover{
+	
+	
+	text-decoration:underline;
+	
+	
+	
+	}
+	
+	#footer li{
+	
+	list-style:none;
+	display:inline;
+	padding:0px 10px 0px 5px;;
+	border-right:1px solid black;
+	margin-left:10px;
+	
+	
+	
+	}
+	
+	
+	#footer li a {
+	
+	color:black;
+	
+	}
+	
+	p {
+	
+	text-align:center;
+	margin:5px;
+	
+	}
+	
+	
+	
+	
+	#description img {
+	
+	width:950px;
+	margin:0 0 0 30px;
+	
+	}
+	
+	.bigp {
+	
+	font-size:30px;
+	color:#EBC72A;
+	
+	}
+	
+	#number  {
+	
+	color:#EBC72A;
+	
+	}
+	
+	.biggerp {
+	font-size:34px;
+	color:#4F5C64;
+	
+	}
+	
+	.biggerp1 {
+	font-size:34px;
+	color:#EBC72A;
+	
+	}
+	
+	.smallp {
+	
+	color:#4F5C64;
+	}
+	
+	#main {
+	width:700px;
+	height:900px;
+	background-color:black;
+	margin-left:167px;
+	padding:10px;
+	border-radius:5px;
+	
+	
+	
+	
+	}
+	
+	
+	
+	#contact {
+	
+	border:none;
+	margin-left:30px;
+	font-size:2em;
+	margin-top:-30px; 
+	font-family:"Courier New", Courier, monospace;
+	
+
+	
+	}
+	
+
+	
+	
+	
